@@ -8,7 +8,7 @@
  */
 
 .notion {
-  --notion-max-width: 720px;
+  --notion-max-width: 920px;
   --notion-header-height: 54px;
 }
 
@@ -117,8 +117,8 @@
 .notion-quote {
   padding: 0.2em 0.75em;
   line-height: 1.5;
-  font-style: italic;
-  font-size: 1.2em;
+  
+  font-size: 1em;
   border-left: 4px solid #67bdfc;
 }
 
