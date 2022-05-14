@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'XLJZT',
 
   // open graph metadata (optional)
-  description: 'Notion - OHHHO',
+  description: ' Notion - OHHHO',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
